@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    margin-top: 200px;
+}
+
+h1, #buttons {
+    text-align: center;
+}
+
+#myList {
+    text-align: center;
+    list-style-type: none;
+    font-size: 25px;
+}
